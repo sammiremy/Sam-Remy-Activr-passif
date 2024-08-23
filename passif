@@ -1,1 +1,7 @@
-Flags
+Flags :
+ADLP{HTML_COMMENT_FL4G_G456688}--> dans le html
+ADLP{ROBOTS_TXT_G569816} ==> le fichier robot.txt
+ADLP{SITM4PAS_XML_G569816} 2018-06-04  --->sitemap.xml
+BC{DESCRIPTIVE-DOMAIN-TXT} dans shodan
+ADLP{CSS_HSBUSGYIG569816} dans le css
+F :"ADLP{JS_COOKIES_G7894546569816}" dans le cookies
